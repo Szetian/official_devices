@@ -1,6 +1,7 @@
 AXION_OFFICIAL_DEVICES := \
     X01BD \
     oriole \
+    courbet \
     bluejay \
     raven \
     panther \
@@ -130,3 +131,4 @@ AXION_OFFICIAL_MAINTAINERS_LH7n := Shirayuki39
 AXION_OFFICIAL_MAINTAINERS_S666LN := KimelaZPrjkt.
 AXION_OFFICIAL_MAINTAINERS_X6882 := ー々hans.
 AXION_OFFICIAL_MAINTAINERS_X6880 := ーケrayannn.
+AXION_OFFICIAL_MAINTAINERS_courbet := Bzbb.
